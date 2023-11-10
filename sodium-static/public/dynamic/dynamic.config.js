@@ -5,7 +5,7 @@ self.__dynamic$config = {
   logLevel: 3,
   bare: {
     version: 3,
-    path: "https://flow-works.me/bare/"
+    path: "https://backend.infrared.bomberfish.ca/"
   },
   tab: {
     title: 'Service',
