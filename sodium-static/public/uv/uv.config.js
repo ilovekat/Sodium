@@ -12,7 +12,6 @@ self.__uv$config = {
      */
     bare: [
         "https://backend.infrared.bomberfish.ca/",
-        "https://flow-works.me/bare/",
         "https://phantomnetwork.cloud/bare/"
       ],
 
