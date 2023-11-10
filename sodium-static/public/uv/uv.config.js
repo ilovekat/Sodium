@@ -11,6 +11,7 @@ self.__uv$config = {
      * @type {string}
      */
     bare: [
+        "https://backend.infrared.bomberfish.ca/",
         "https://flow-works.me/bare/",
         "https://phantomnetwork.cloud/bare/"
       ],
